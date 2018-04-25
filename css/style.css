@@ -86,7 +86,6 @@ a:active {
 
 .title {
   color: #F08E91;
-  text-shadow: 5px 10px 10px rgba(255,255,255,.8);
   font-size: 1.625rem; /* 26px/16px */
   letter-spacing: .065em;
   font-weight: bold;
