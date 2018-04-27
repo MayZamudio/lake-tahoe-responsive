@@ -26,7 +26,7 @@
   
   .main-nav {
     width: 100%;
-    background: #2B2330;
+    background: rgba(0,0,0, .8);
     min-height: 30px;
     padding: 10px;
     position: fixed;
@@ -61,7 +61,7 @@
   
   header {
     text-align: center;
-    background: url('http://www.rosalindmillercakes.com/wp-content/uploads/2015/06/1703_DesTab_B_Mar17-108.jpg') no-repeat top center ;
+    background: url('../img/table3.jpg') no-repeat center ;
     background-size: cover;
     overflow: hidden;
     padding-top: 60px;
@@ -118,7 +118,7 @@
   }
   .about-heading{
     border-radius: 10%;
-    background: url('https://static1.squarespace.com/static/563817ebe4b05d0f913649e8/t/59b861f32994cad675223319/1515523985955/Now+Open%21.jpg') no-repeat top center ;
+    background: url('../img/image1.jpg') no-repeat top center ;
   }
   
   blockquote{
@@ -166,7 +166,7 @@
   /*FOOTER*/
   footer {
     text-align: center;
-    background: #2B2330;    
+    background: #000;    
     background-size: cover;
     overflow: hidden;
     padding-top: 60px;
